@@ -1,5 +1,5 @@
 # Attax
-Devoir maison réalisé lors de mon S3 à l'UGE avec Yanis TWARDAWA et la bibliothèque graphique MLV
+Devoir maison réalisé lors de mon S3 à l'UGE avec Aramisotos ( https://github.com/Aramisotos/ ) et la bibliothèque graphique MLV
 ( http://www-igm.univ-mlv.fr/~boussica/mlv/api/French/html/index.html )
 
 Pour plus d'information, je vous invite à lire "Attax.pdf".
